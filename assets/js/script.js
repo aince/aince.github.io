@@ -3,8 +3,8 @@
 /* Title Typewrite Effect */
 var typed = new Typed(".typing",{
   strings: ["Selamlar ben Akif","Burası benim","kişisel websitem!"],
-   typeSpeed: 250,
-   bacSpeed: 100,
+   typeSpeed: 100,
+   bacSpeed: 30,
    loop: true
  })
 /* Title Typewrite Effect */
